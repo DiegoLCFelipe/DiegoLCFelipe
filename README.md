@@ -6,7 +6,7 @@
 - 📫 Você pode me contatar no e-mail: <diego.felipe095@gmail.com>
 <div>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=DiegoLCFelipe&show_icons=true&theme=github_dark&locale=pt-br&custom_title=Estatísticas&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DiegoLCFelipe&langs_count=7&theme=github_dark"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DiegoLCFelipe&langs_count=7&theme=github_dark&hide=jupyter%20notebook&custom_title=Linguagens mais utilizadas"/>
 </div>
 <div style="display: inline_block"><br>
   <img align="center" alt="Diego-Ubuntu" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ubuntu/ubuntu-plain.svg">
