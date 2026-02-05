@@ -1,15 +1,31 @@
-### Olá ! Eu sou o Diego Felipe.
 
-- 👨🏼‍🔧 Sou Engenheiro Mecânico
-- 🔭 Hoje estou trabalhando com Python e OpenFOAM
-- 🌱 Estudando Data Science
-- 📫 Você pode me contatar no e-mail: <diego.felipe095@gmail.com>
-<div>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=DiegoLCFelipe&show_icons=true&theme=github_dark&locale=pt-br&custom_title=Estatísticas&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DiegoLCFelipe&langs_count=7&theme=github_dark&hide=jupyter%20notebook&custom_title=Linguagens mais utilizadas"/>
-</div>
+# Hi, I'm Diego Felipe 👋
+### Predictive Analytics | Time Series Forecasting | Decision Support
+
+I’m a Mechanical Engineer with a Master’s degree and an MBA in Data Science & Analytics, working at the intersection of engineering, statistics, and data modeling. My focus is turning historical data into forward-looking insights that support planning and decision-making in complex operational environments. 
+
+- 🔭 Currently working with procurement analytics and supporting the implementation of **price forecasting** and **cost breakdown** capabilities.
+- 📈 Interested in **time series forecasting**, **statistical modeling**, and applied analytics for operations, supply chain, and planning.
+- 🧠 Background in computational modeling and scientific Python.
+
+## 🔧 Core Skills
+- **Analytics & Modeling:** time series (SARIMA/ETS), statistical validation, exploratory analysis  
+- **Programming:** Python (pandas, numpy, scipy, scikit-learn), SQL  
+- **BI & Delivery:** Power BI (DAX), automation and data pipelines  
+- **Domains:** operations, supply chain, procurement analytics
+
+## 📌 Featured Work
+- **Time Series Forecasting (MBA Final Project):** Forecasting oil palm production using ETS and SARIMA models with statistical residual diagnostics and business framing for planning decisions.
+
+> If you’re building forecasting, planning, or decision-support solutions, feel free to connect.
+
+## 🌐 Links
+- LinkedIn: https://www.linkedin.com/in/diegofelipe-engmec/
+- Lattes: http://lattes.cnpq.br/5179105317964756
+
 <div style="display: inline_block"><br>
-  <img align="center" alt="Diego-Ubuntu" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ubuntu/ubuntu-plain.svg">
+  <img align="center" alt="Diego-Spyder" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spyder/spyder-original.svg" />   
+  <img align="center" alt="Diego-SQL" height="50" width="50"src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-original.svg" />
   <img align="center" alt="Diego-Python" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Diego-Jupyter" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original-wordmark.svg">
 </div>
